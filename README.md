@@ -40,7 +40,7 @@ Ensure you have **MATLAB** installed on your system before running the project.
 ### Steps to Run
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/svd-hmm-ser.git
+   git clone https://github.com/Koushik7893/Speech-Emotion-Recognition-using-SVD-and-HMM.git
    ```
 2. Open MATLAB and navigate to the project folder.
 3. Choose a dataset folder (e.g., `SEP_Berlin`).
